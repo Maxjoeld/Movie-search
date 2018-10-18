@@ -1,3 +1,3 @@
 # Movie-search
 
-#### WOP-Application that uses React-Apollo, postgresql, and graphql
+#### WIP-Application that uses React-Apollo, postgresql, and graphql
